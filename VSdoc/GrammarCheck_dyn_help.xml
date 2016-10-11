@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="GrammarCheck" Title="SOLUTION-WIDE PROPERTIES Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.WebApiApplication.Application_Start" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000007.html" LinkGroup="GrammarCheck">Application_Start Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Tests.Tests.Check_TheHelloWorldPhraseWontHaveMistakes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000011.html" LinkGroup="GrammarCheck">Check_TheHelloWorldPhraseWontHaveMistakes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Tests.Tests.Check_TheHellowVorldPhraseWontHaveMistakes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000012.html" LinkGroup="GrammarCheck">Check_TheHellowVorldPhraseWontHaveMistakes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Tests.Tests.Check_TheMethodDoesntCheckUpperCaseInSentenceStart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000013.html" LinkGroup="GrammarCheck">Check_TheMethodDoesntCheckUpperCaseInSentenceStart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.FindMistakes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000D.html" LinkGroup="GrammarCheck">FindMistakes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000001.html" LinkGroup="GrammarCheck">GrammarCheck Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Tests" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000F.html" LinkGroup="GrammarCheck">GrammarCheck.Tests Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.Length" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000B.html" LinkGroup="GrammarCheck">Length Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.MessagesController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000004.html" LinkGroup="GrammarCheck">MessagesController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000008.html" LinkGroup="GrammarCheck">Mistake Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.Offset" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000A.html" LinkGroup="GrammarCheck">Offset Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.MessagesController.Post" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000005.html" LinkGroup="GrammarCheck">Post Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.WebApiConfig.Register" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000003.html" LinkGroup="GrammarCheck">Register Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.Replacements" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000C.html" LinkGroup="GrammarCheck">Replacements Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SOLUTION-WIDE PROPERTIES Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000000.html" LinkGroup="GrammarCheck">SOLUTION-WIDE PROPERTIES Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Tests.Tests" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000010.html" LinkGroup="GrammarCheck">Tests Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_000000000000000E.html" LinkGroup="GrammarCheck">ToString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.WebApiApplication" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000006.html" LinkGroup="GrammarCheck">WebApiApplication Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.WebApiConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000002.html" LinkGroup="GrammarCheck">WebApiConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="GrammarCheck.Mistake.Word" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:GrammarCheck.chm::/topic_0000000000000009.html" LinkGroup="GrammarCheck">Word Property</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
