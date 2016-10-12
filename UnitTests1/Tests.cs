@@ -32,4 +32,25 @@ namespace GrammarCheck.Tests
             Assert.AreEqual(mistakes.Count(), 0);
         }
     }
+
+    public abstract class ABase
+    {
+        public Int32 A { get; set; }
+    }
+
+    public class A1 : ABase
+    {
+        public Int32 Method() { return 0; }
+    }
+
+    public class A2 : ABase
+    {
+        public Int32 Method()
+        {
+            var variabl = 3;
+            variabl++;
+            return variabl;
+        }
+    }
+
 }

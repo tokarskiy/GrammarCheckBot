@@ -29,24 +29,7 @@ namespace GrammarCheck
             if (activity.Type == ActivityTypes.Message)
             {
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                /*
-                if (activity.Text.StartsWith("/"))
-                {
-                    var command = activity.Text.Split(new Char[] { '/' });
-                    if (command[0].ToUpper().Equals("HELP"))
-                    {
-
-                    }
-                    else if (command[0].ToUpper().Equals("SETLANG"))
-                    {
-
-                    }
-                    else
-                    {
-
-                    }
-                }
-                */
+               
                 var mistakes = Mistake.FindMistakes(activity.Text, "en-US");
                 if (mistakes.Count() > 0)
                 {
